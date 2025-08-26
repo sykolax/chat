@@ -1,1 +1,1 @@
-# raw-socket-chat-client
+# chat-client
